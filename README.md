@@ -12,7 +12,7 @@ I recently graduated from Full-Stack engineering studies courtesy of Mahat,
 and completed computer teaching studies via the Ministry of Education.
 
 
-## 🚀 Skills
+## 🛠️ Skills
 - Languages:
   - Java
   - C#
