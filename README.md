@@ -71,5 +71,5 @@ Got a lead or just want to chat? Don’t hesitate to reach out!
 
 Let's connect on [LinkedIn](https://www.linkedin.com/in/shirabiton/)
 
-Thanks for stopping by my profile! 😊
+Thanks for stopping by my profile 😊
 
