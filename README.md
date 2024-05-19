@@ -5,7 +5,9 @@ welcome to my GitHub space! 🚀
 These days I am doing an internship at a startup company,
 
 I work there in languages ​​C# + Angular, Database: SQL Server.
+
 I'm just recently graduated from Full-Stack engineering studies on behalf of Mahat by the Minhal College,
+
 and completed computer teaching studies on behalf of the Ministry of Education.
 
 ## 🚀 Skills
