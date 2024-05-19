@@ -49,6 +49,8 @@ I enjoy teamwork and I am highly motivated to start working.
 From June I am free to work, 
 so I am currently looking for a software development position that will challenge me and utilize my abilities. 😊
 
+## 🎓 Education
+- Full-Stack engineering
 
 
 <!--
