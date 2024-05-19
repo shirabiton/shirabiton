@@ -3,6 +3,7 @@ welcome to my GitHub space! 🚀
 
 ## 🌐 Overview
 These days I am doing an internship at a startup company,
+I work there in languages ​​C# + Angular, Database: SQL Server.
 I'm just recently graduated from Full-Stack engineering studies on behalf of Mahat by the Minhal College,
 and completed computer teaching studies on behalf of the Ministry of Education.
 
@@ -26,12 +27,18 @@ and completed computer teaching studies on behalf of the Ministry of Education.
 - Frameworks:
   - Spring Boot (Java)
   - asp.NET Core (C#)
-- Libararies:
+- Tools:
+  - Postman
+  - AWS
+  - Docker
+  - Terraform
+- UI Libraries:
+    - MUI (Material-UI)
+    - Angular Material
+    - PrimeNG 
+- State Management Libraries:
     - Redux (React)
     - Redux Toolkit (React)
-    - Anaconda (Python)
-    - Tkinter (Python)
-    - PIL (Python)
 - Other skills:
   - Object-Oriented Programming (OOP)
 
