@@ -1,5 +1,5 @@
 ### 👋 Hi, I'm Shira
-welcome to my GitHub space! 🚀
+Welcome to my GitHub space! 🚀
 
 
 ## 🌐 Overview
@@ -18,7 +18,7 @@ and completed computer teaching studies on behalf of the Ministry of Education.
   - C#
   - Python
   - Cobol
-- Web development:
+- Web Development:
   - HTML
   - CSS
   - JavaScript
@@ -31,7 +31,7 @@ and completed computer teaching studies on behalf of the Ministry of Education.
   - MongoDB
 - Frameworks:
   - Spring Boot (Java)
-  - asp.NET Core (C#)
+  - Asp.NET Core (C#)
 - Tools:
   - Postman
   - AWS
@@ -44,7 +44,7 @@ and completed computer teaching studies on behalf of the Ministry of Education.
 - State Management Libraries:
     - Redux (React)
     - Redux Toolkit (React)
-- Other skills:
+- Other Skills:
   - Object-Oriented Programming (OOP)
 
 
@@ -75,4 +75,4 @@ Email: shirabiton387@gmail.com
 
 Let's connect on [LinkedIn](https://www.linkedin.com/in/shirabiton/)
 
-Thanks for looking at my profile 😇
+Thanks for watching at my profile 
