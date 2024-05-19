@@ -7,9 +7,9 @@ These days I am doing an internship at a startup company,
 
 I work there in languages ​​C# + Angular, Database: SQL Server.
 
-I'm just recently graduated from Full-Stack engineering studies on behalf of Mahat by the Minhal College,
+I recently graduated from Full-Stack engineering studies courtesy of Mahat by Minhal College,
 
-and completed computer teaching studies on behalf of the Ministry of Education.
+and completed computer teaching studies via the Ministry of Education.
 
 
 ## 🚀 Skills
@@ -49,13 +49,13 @@ and completed computer teaching studies on behalf of the Ministry of Education.
 
 
 ## 🎓 Education
-- Formal Education (2022-2024):
-  - Full-Stack engineering studies on behalf of Mahat by the Minhal College 
+- **Formal Education (2022-2024)**:
+  - Full-Stack engineering studies at Mahat by Minhal College
   - Computer teaching studies by Ministry of Education
 
-I really enjoy adding knowledge to my skill set, advancing in my profession, and learning on my own. 
+I'm a lifelong learner, always on the lookout for new knowledge and ways to up my game.
 
-That's why I learn a lot by myself as well as through additional courses.
+Whether it's through self-study or additional courses, I'm all in.
 
 
 ## 💪 Motivation
@@ -67,12 +67,11 @@ so I am currently looking for a software development position that will challeng
 
 
 ## 📞 Concat me
-Well if you know someone who knows someone who needs me,
-
-don't hesitate to offer me
+Got a lead or just want to chat? Don’t hesitate to reach out!
 
 Email: shirabiton387@gmail.com
 
 Let's connect on [LinkedIn](https://www.linkedin.com/in/shirabiton/)
 
-Thanks for watching at my profile 
+Thanks for stopping by my profile! 😊
+
