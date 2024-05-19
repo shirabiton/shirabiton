@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### 👋 Hi, I'm Shira
+welcome to my GitHub space! 🚀
 <!--
 **shirabiton/shirabiton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
