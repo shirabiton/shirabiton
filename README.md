@@ -3,7 +3,7 @@ Welcome to my GitHub space! 🚀
 
 
 ## 🌐 Overview
-These days I am doing an internship at a startup company,
+These days I am doing an internship at a startup company @ChipRepo1,
 
 I work there in languages ​​C# and Angular, with SQL Server database.
 
