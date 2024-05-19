@@ -69,9 +69,9 @@ so I am currently looking for a software development position that will challeng
 ## 📞 Concat me
 Got a lead or just want to chat? Don’t hesitate to reach out!
 
-Email: shirabiton387@gmail.com
-
 Let's connect on [LinkedIn](https://www.linkedin.com/in/shirabiton/)
+
+My Email: shirabiton387@gmail.com
 
 Thanks for stopping by my profile! 😊
 
