@@ -67,9 +67,12 @@ so I am currently looking for a software development position that will challeng
 
 
 ## 📞 Concat me
-Phone: 050.411.3387
+Well if you know someone who knows someone who needs me,
+
+don't hesitate to offer me
 
 Email: shirabiton387@gmail.com
 
 Let's connect on [LinkedIn](https://www.linkedin.com/in/shirabiton/)
 
+Thanks for looking at my profile 😇
