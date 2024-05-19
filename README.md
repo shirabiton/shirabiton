@@ -1,6 +1,7 @@
 ### 👋 Hi, I'm Shira
 welcome to my GitHub space! 🚀
 
+
 ## 🌐 Overview
 These days I am doing an internship at a startup company,
 
@@ -9,6 +10,7 @@ I work there in languages ​​C# + Angular, Database: SQL Server.
 I'm just recently graduated from Full-Stack engineering studies on behalf of Mahat by the Minhal College,
 
 and completed computer teaching studies on behalf of the Ministry of Education.
+
 
 ## 🚀 Skills
 - Languages:
@@ -45,25 +47,27 @@ and completed computer teaching studies on behalf of the Ministry of Education.
 - Other skills:
   - Object-Oriented Programming (OOP)
 
-I enjoy teamwork and I am highly motivated to start working.
-From June I am free to work, 
-so I am currently looking for a software development position that will challenge me and utilize my abilities. 😊
 
 ## 🎓 Education
-- Full-Stack engineering
+- Formal Education (2022-2024):
+  - Full-Stack engineering studies on behalf of Mahat by the Minhal College 
+  - Computer teaching studies by Ministry of Education
+
+I really enjoy adding knowledge to my skill set, advancing in my profession, and learning on my own. 
+
+That's why I learn a lot by myself as well as through additional courses.
 
 
-<!--
-**shirabiton/shirabiton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💪 Motivation
+I enjoy teamwork and I am highly motivated to start working.
 
-Here are some ideas to get you started:
+From June I am free to work,
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+so I am currently looking for a software development position that will challenge me and utilize my abilities.
+
+
+## 📞 Concat me
+Phone: 0504113387
+Email: shirabiton387@gmail.com
+Let's connect on [LinkedIn](https://www.linkedin.com/in/shirabiton/)
+
