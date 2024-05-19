@@ -49,7 +49,7 @@ and completed computer teaching studies via the Ministry of Education.
 
 
 ## 🎓 Education
-- **Formal Education (2022-2024)**:
+**Formal Education (2022-2024)**:
   - Full-Stack engineering studies at Mahat
   - Computer teaching studies by Ministry of Education
 
