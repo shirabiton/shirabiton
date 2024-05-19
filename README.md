@@ -5,7 +5,7 @@ Welcome to my GitHub space! 🚀
 ## 🌐 Overview
 These days I am doing an internship at a startup company,
 
-I work there in languages ​​C# + Angular, Database: SQL Server.
+I work there in languages ​​C# and Angular, with SQL Server database.
 
 I recently graduated from Full-Stack engineering studies courtesy of Mahat,
 
