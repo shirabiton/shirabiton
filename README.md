@@ -42,8 +42,8 @@ and completed computer teaching studies via the Ministry of Education.
     - Angular Material
     - PrimeNG 
 - State Management Libraries:
-    - Redux (React)
-    - Redux Toolkit (React)
+    - Redux
+    - Redux Toolkit
 - Other Skills:
   - Object-Oriented Programming (OOP)
 
