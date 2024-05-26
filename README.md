@@ -61,7 +61,7 @@ Whether it's through self-study or additional courses, I'm all in.
 ## 💪 Motivation
 I enjoy teamwork and I am highly motivated to start working.
 
-In June I wiil be available to work,
+In August I wiil be available to work,
 
 so I am currently looking for a Full Stack development position that will challenge me and utilize my abilities.
 
