@@ -33,7 +33,7 @@ and completed computer teaching studies via the Ministry of Education.
   - Spring Boot (Java)
   - Asp.NET Core (C#)
 - Tools:
-  - Postman
+  - Postman API
   - AWS
   - Docker
   - Terraform
@@ -67,7 +67,7 @@ so I am currently looking for a Full Stack development position that will challe
 
 
 ## 📞 Concat me
-Got a lead or just want to chat? Don’t hesitate to reach out!
+Got a lead or just want to chat? Don’t hesitate to reach me out!
 
 Let's connect on [LinkedIn](https://www.linkedin.com/in/shirabiton/)
 
