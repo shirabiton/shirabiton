@@ -7,10 +7,6 @@ These days I am doing an internship at [@ChipRepo1](https://github.com/ChipRepo1
 
 I work there in languages ​​C# and Angular, with SQL Server database.
 
-I recently graduated from Full-Stack engineering studies courtesy of Mahat,
-
-and completed computer teaching studies via the Ministry of Education.
-
 
 ## 🛠️ Skills
 - Languages:
