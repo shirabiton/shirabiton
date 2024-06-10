@@ -53,17 +53,14 @@ and completed computer teaching studies via the Ministry of Education.
   - Full-Stack engineering studies at Mahat
   - Computer teaching studies by Ministry of Education
 
-I'm a lifelong learner, always on the lookout for new knowledge and ways to up my game.
-
-Whether it's through self-study or additional courses, I'm all in.
-
 
 ## 💪 Motivation
-I enjoy teamwork and I am highly motivated to start working.
-
-In August I wiil be available to work,
-
-so I am currently looking for a Full Stack development position that will challenge me and utilize my abilities.
+I enjoy teamwork, <br>
+and am highly motivated to start my professional journey.
+I am a lifelong learner, constantly seeking new knowledge and ways to enhance my skills.
+Whether through self-study or additional courses, I am fully committed. 
+Need proof? Take a look at my skills section.
+Here, I am currently taking course in AWS, Docker, and Terraform - tools that piqued my curiosity about them, and I was not wrong, they are really fascinating.
 
 
 ## 📞 Concat me
@@ -71,5 +68,5 @@ Got a lead or just want to chat? Don’t hesitate to reach me out!
 
 Let's connect on [LinkedIn](https://www.linkedin.com/in/shirabiton/)
 
-Thanks for stopping by my profile 😊
+Thanks for stopping by my profile :)
 
