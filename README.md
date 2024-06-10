@@ -51,10 +51,9 @@ I work there in languages ​​C# and Angular, with SQL Server database.
 
 
 ## 💪 Motivation
-I enjoy teamwork, <br>
-and am highly motivated to start my professional journey. <br>
+I enjoy teamwork, and am highly motivated to start my professional journey. <br>
 I am a lifelong learner, constantly seeking new knowledge and ways to enhance my skills. <br>
-Whether through self-study or additional courses, I am fully committed.  <br>
+Whether through self-study or additional courses, I am fully committed.  <br> <br>
 Need proof? Take a look at my skills section. <br>
 Here, I am currently taking course in AWS, Docker, and Terraform - tools that piqued my curiosity about them,  <br>
 and I was not wrong, they are really fascinating.
