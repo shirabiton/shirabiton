@@ -62,6 +62,8 @@ and I was not wrong, they are really fascinating.
 ## 📞 Concat me
 Got a lead or just want to chat? Don’t hesitate to reach me out! <br>
 
-Let's connect on [LinkedIn](https://www.linkedin.com/in/shirabiton/) <br>
+Let's connect on [LinkedIn](https://www.linkedin.com/in/shirabiton/)
+[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png)](https://www.linkedin.com/in/YOUR-LINKEDIN-PROFILE)
+<br>
 Thanks for stopping by my profile :)
 
