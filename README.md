@@ -59,10 +59,10 @@ Here, I am currently taking course in AWS, Docker, and Terraform - tools that pi
 and I was not wrong, they are really fascinating.
 
 
-## 📞 Concat me
+## 📞 contact me
 Got a lead or just want to chat? Don’t hesitate to reach me out! <br>
 
-You can concat me on LinkedIn 
+You can contact me on LinkedIn:   
 <a href="https://www.linkedin.com/in/shirabiton/">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" style="width: 20px; height: 20px;">
 </a>
