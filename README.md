@@ -62,7 +62,7 @@ and I was not wrong, they are really fascinating.
 ## 📞 contact me
 Got a lead or just want to chat? Don’t hesitate to reach me out! <br>
 
-You can contact me on LinkedIn: <br>  
+You can contact me: <br>  
 <a href="https://www.linkedin.com/in/shirabiton/">
   <img src="https://camo.githubusercontent.com/2f23ee7b79f8d1f9e5a87fd12a9296cf01a995033830409393455480ffe22d1e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d2532333030373742352e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="LinkedIn" style="height: 30px;">
 </a>
