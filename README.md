@@ -63,6 +63,5 @@ and I was not wrong, they are really fascinating.
 Got a lead or just want to chat? Don’t hesitate to reach me out! <br>
 
 Let's connect on [LinkedIn](https://www.linkedin.com/in/shirabiton/) <br>
-[![LinkedIn](https://github.com/your-username/your-repo/blob/main/images/linkedin-button.png)](https://www.linkedin.com/in/your-profile)
 Thanks for stopping by my profile :)
 
