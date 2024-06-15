@@ -17,6 +17,7 @@ I work there in languages ​​C# and Angular, with SQL Server database.
 - Web Development:
   - HTML
   - CSS
+  - SCSS
   - JavaScript
   - TypeScript
   - Angular
