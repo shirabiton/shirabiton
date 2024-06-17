@@ -38,7 +38,6 @@ I work there in languages ​​C# and Angular, with SQL Server database.
     - MUI (Material-UI)
     - Angular Material
     - PrimeNG
-    - SweetAlert2
 - State Management Libraries:
     - Redux
     - Redux Toolkit
