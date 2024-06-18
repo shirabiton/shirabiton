@@ -4,7 +4,7 @@ Welcome to my GitHub space! 🚀
 
 ## 🌐 Overview
 These days I am interning at a startup company called Chip - [@ChipRepo1](https://github.com/ChipRepo1), as a Full Stack Developer.<br> 
-As part of a team of 20 programmers, I have specialized in version control tools like Git and GitHub.<br>
+As part of a team of 20 programmers, I have mainly specialized in version control tools like Git and GitHub.<br>
 I work primarily with C# for backend development and Angular for frontend, using SQL Server as database.<br>
 
 
@@ -58,8 +58,8 @@ Whether through self-study or additional courses, i'm all in.<br>
 Need proof? Take a look at my skills section. 🚀<br>
 I am currently taking a course in: AWS, Docker, and Terraform - tools that piqued my curiosity about them,<br>
 and I was not wrong, they are really fascinating.<br>
-I have developed several impressive projects, some of which include client-server applications.<br>
-You can check them out in the Featured section on my GitHub space. 🔎<br>
+Additionally, I have developed several impressive projects, some of which include client-server applications.<br>
+You can check them out in my public repositories. 🔎<br>
 Wish me success in the future 🏆
 
 
