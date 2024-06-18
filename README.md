@@ -59,7 +59,7 @@ Need proof? Take a look at my skills section.<br>
 I am currently taking a course in: AWS, Docker, and Terraform - tools that piqued my curiosity about them,<br>
 and I was not wrong, they are really fascinating.<br>
 Additionally, I have developed several impressive projects, some of which include client-server applications.<br>
-You can check them out in my public repositories. 🔎<br>
+You can check them out in my public repositories. 🔎<br><br>
 Wish me success in the future 🏆
 
 
