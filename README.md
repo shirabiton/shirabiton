@@ -46,7 +46,7 @@ I work primarily with C# for backend development and Angular for frontend, using
 
 
 ## 🎓 Education
-**Formal Education (2022-2024)**:
+**2022-2024**:
   - Full-Stack engineering studies at Mahat
   - Computer teaching studies by Ministry of Education
 
