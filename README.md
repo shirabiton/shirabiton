@@ -13,6 +13,7 @@ I work primarily with C# for backend development and Angular for frontend, using
   - Java
   - C#
   - Python
+  - C
   - Cobol
 - Web Development:
   - HTML
