@@ -18,7 +18,7 @@ I work primarily with C# for backend development and Angular for frontend, using
 - Web Development:
   - HTML
   - CSS
-  - SCSS
+  - Sass
   - JavaScript
   - TypeScript
   - Angular
