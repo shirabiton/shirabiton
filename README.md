@@ -10,8 +10,8 @@ I work primarily with C# for backend development and Angular for frontend, using
 
 ## 🛠️ Skills
 - Languages:
-  - Java
   - C#
+  - Java
   - Python
   - C
   - Cobol
