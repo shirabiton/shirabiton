@@ -55,7 +55,7 @@ I worked there primarily with C# for backend development and Angular for fronten
 ## 💪 Motivation
 I enjoy teamwork, and am highly motivated to start my professional journey.<br>
 I am a lifelong learner, constantly seeking new knowledge and ways to enhance my skills.<br>
-Whether through self-study or additional courses, i'm all in.<br>
+Whether through self-study or additional courses, I'm all in.<br>
 Need proof? Take a look at my skills section.<br>
 I am currently taking a course in: AWS, Docker, and Terraform - tools that piqued my curiosity about them,<br>
 and I was not wrong, they are really fascinating.<br>
