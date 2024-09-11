@@ -5,7 +5,7 @@ Welcome to my GitHub space! 🚀
 ## 🌐 Overview
 I just recently finished my interning at a startup company called Chip - [@ChipRepo1](https://github.com/ChipRepo1), as a Full Stack Developer.<br> 
 As part of a team of 20 programmers, I have mainly specialized in version control tools like Git and GitHub.<br>
-I worked there primarily with C# for backend development and Angular for frontend, using SQL Server as database.<br>
+I worked there primarily with C# for backend development and Angular for frontend, using SQL Server as a database.<br>
 
 
 ## 🛠️ Skills
