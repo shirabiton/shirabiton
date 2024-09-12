@@ -3,9 +3,12 @@ Welcome to my GitHub space! 🚀
 
 
 ## 🌐 Overview
-I just recently finished my interning at a startup company called Chip - [@ChipRepo1](https://github.com/ChipRepo1), as a Full Stack Developer.<br> 
+I just recently finished interning at a startup company called Chip - [@ChipRepo1](https://github.com/ChipRepo1) as a Full Stack Developer.<br> 
 As part of a team of 20 programmers, I have mainly specialized in version control tools like Git and GitHub.<br>
-I worked there primarily with C# for backend development and Angular for frontend, using SQL Server as a database.<br>
+I worked there primarily with C# for backend development and Angular for frontend, using SQL Server as a database.<br><br>
+
+In addition to my technical work, I had the opportunity to assist students at the educational institution where I studied with their projects in Java and React.<br>
+It was gratifying to guide them through challenges and see their progress. This experience strengthened my training and teamwork skills.
 
 
 ## 🛠️ Skills
@@ -48,23 +51,24 @@ I worked there primarily with C# for backend development and Angular for fronten
 
 ## 🎓 Education
 **2022-2024**:
-  - Full-Stack engineering studies at Mahat
-  - Computer teaching studies by Ministry of Education
+  - Full Stack development studies at Mahat
+  - Computer teaching studies via the Ministry of Education
 
 
 ## 💪 Motivation
-I enjoy teamwork, and am highly motivated to start my professional journey.<br>
+I enjoy teamwork and am highly motivated to start my professional journey.<br>
 I am a lifelong learner, constantly seeking new knowledge and ways to enhance my skills.<br>
 Whether through self-study or additional courses, I'm all in.<br>
-Need proof? Take a look at my skills section.<br>
-I am currently taking a course in: AWS, Docker, and Terraform - tools that piqued my curiosity about them,<br>
-and I was not wrong, they are really fascinating.<br>
+Need proof? Please take a look at my skills section.<br>
+I am currently taking a course in AWS, Docker, and Terraform - tools that piqued my curiosity about them,<br>
+and I was not wrong, they are fascinating.<br>
 Additionally, I have developed several impressive projects, some of which include client-server applications.<br>
 You can check them out in my public repositories. 🔎<br><br>
 Wish me success in the future 🏆
 
 
-## 📞 contact me
+
+## 📞 Contact Me
 Got a lead or just want to chat? Don’t hesitate to reach me out! <br>
 
 You can contact me: <br>  
