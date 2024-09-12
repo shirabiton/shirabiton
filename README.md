@@ -51,7 +51,7 @@ It was gratifying to guide them through challenges and see their progress. This 
 
 ## 🎓 Education
 **2022-2024**:
-  - Full Stack development studies at Mahat
+  - Full Stack Engineering studies at Mahat
   - Computer teaching studies via the Ministry of Education
 
 
