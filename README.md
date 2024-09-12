@@ -69,13 +69,6 @@ Wish me success in the future 🏆
 
 
 ## 📞 Contact Me
-Got a lead or just want to chat? Don’t hesitate to reach me out! <br>
-
-You can contact me: <br>  
 <a href="https://www.linkedin.com/in/shirabiton/">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="height: 30px;">
 </a>
-<br>
-
-Thanks for stopping by my profile :)
-
