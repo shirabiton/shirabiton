@@ -2,11 +2,11 @@
 Welcome to my GitHub space ✌️
 
 ## 🌐 Overview
-I am currently undergoing three and a half months of training with the IDF, preparing for my first job in the industry as a Full Stack Developer. As part of this training, I am working with various programming languages and tools, particularly focusing on the MERN stack, while building a professional project that will be deployed. I am enjoying the process, gaining hard and soft skills, and looking forward to starting my professional journey. 🚀<br>
+I am currently undergoing three and a half months of training with the IDF, preparing for my first job in the industry as a Full Stack developer. As part of this training, I am working with various programming languages and tools, particularly focusing on the MERN stack, while building a professional project that will be deployed. I am enjoying the process, gaining hard and soft skills, and looking forward to starting my professional journey. 🚀<br>
 
 In addition to my technical work, last August I had the opportunity to assist students at the educational institution where I studied with their projects in Java and React. Guiding them through challenges and watching their progress was incredibly rewarding, and I feel it strengthened my teaching and mentoring skills. 👩‍🏫<br>
 
-In July 2024, I completed an internship as a Fullstack developer at Chip- a startup company, as part of my certificate studies. Working within a team of 20 programmers, I focused on version control tools like Git and GitHub. My work primarily involved using C# for backend development and Angular for frontend, alongside SQL Server as the database. 🛠️<br>
+In July 2024, I completed an internship as a Full Stack developer at Chip- a startup company, as part of my certificate studies. Working within a team of 20 programmers, I focused on version control tools like Git and GitHub. My work primarily involved using C# for backend development and Angular for frontend, alongside SQL Server as the database. 🛠️<br>
 
 I have developed several impressive projects, including client-server applications. You can check the out in the repositories below.🔎<br>
 
@@ -50,7 +50,7 @@ I have developed several impressive projects, including client-server applicatio
 
 ## 🎓 Education
 **2022-2024**:
-  - Full Stack Engineering studies at Mahat
+  - Full Stack engineering studies at Mahat
   - Computer teaching program via the Ministry of Education
 
 ## 💪 Motivation
