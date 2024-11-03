@@ -50,7 +50,7 @@ I have developed several impressive projects, including client-server applicatio
 
 ## 🎓 Education
 **2022-2024**:
-  - Full Stack engineering studies at Mahat
+  - Full Stack development studies at Mahat
   - Computer teaching program via the Ministry of Education
 
 ## 💪 Motivation
