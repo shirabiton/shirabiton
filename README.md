@@ -8,7 +8,7 @@ In addition to my technical work, last August I had the opportunity to assist st
 
 In July 2024, I completed an internship as a Full Stack developer at Chip- a startup company, as part of my certificate studies. Working within a team of 20 programmers, I focused on version control tools like Git and GitHub. My work primarily involved using C# for backend development and Angular for frontend, alongside SQL Server as the database. 🛠️<br>
 
-I have developed several impressive projects, including client-server applications. You can check them out in the repositories below.🔎<br>
+I have developed several impressive projects, including client-server applications. You can check them out in the repositories below. 🔎<br>
 
 ## 🛠️ Skills
 - Languages:
