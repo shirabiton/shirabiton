@@ -18,14 +18,16 @@ I have developed several impressive projects, including client-server applicatio
   - C
   - Cobol
 - Web Development:
+  - Node.js
+  - Next.js
+  - JavaScript
+  - TypeScript
   - HTML
   - CSS
   - Sass
-  - JavaScript
-  - TypeScript
   - Angular
   - React
-  - Node.js
+  - Tailwind CSS
 - Databases:
   - SQL Server
   - MongoDB
