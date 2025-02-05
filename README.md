@@ -2,7 +2,8 @@
 Welcome to my GitHub space ✌️
 
 ## 🌐 Overview
-I am currently undergoing three and a half months of training with the IDF, preparing for my first job in the industry as a Full Stack developer. As part of this training, I am working with various programming languages and tools, particularly focusing on the MERN stack, while building a professional project that will be deployed. I am enjoying the process, gaining hard and soft skills, and looking forward to starting my professional journey. 🚀<br>
+I am a Full Stack Developer in the IDF, specializing in the MERN stack, after completing an intensive three-and-a-half-month training program.
+ 🚀<br>
 
 In addition to my technical work, last August I had the opportunity to assist students at the educational institution where I studied with their projects in Java and React. Guiding them through challenges and watching their progress was incredibly rewarding, and I feel it strengthened my teaching and mentoring skills. 👩‍🏫<br>
 
