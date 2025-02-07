@@ -2,7 +2,8 @@
 Welcome to my GitHub space ✌️
 
 ## 🌐 Overview
-I am a Full Stack Developer in the IDF, specializing in the MERN stack, after completing an intensive three-and-a-half-month training program.<br>
+I currently work as a Full Stack Developer in the IDF, specializing in the MERN stack, after completing an intensive three-and-a-half-month training program.
+<br>
 
 In addition to my technical work, last August I had the opportunity to assist students at the educational institution where I studied with their projects in Java and React. Guiding them through challenges and watching their progress was incredibly rewarding, and I feel it strengthened my teaching and mentoring skills. 👩‍🏫<br>
 
