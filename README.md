@@ -1,66 +1,68 @@
-### 👋 Hi, I am Shira
+### 👋 Hi, I'm Shira
 Welcome to my GitHub space ✌️
 
 ## 🌐 Overview
-I currently work as a Full Stack Developer in the IDF, specializing in the MERN stack, after completing an intensive three-and-a-half-month training program.
+Since January 2025, I've been working as a Full Stack Developer in a civilian role within the Israel Defense Forces, specializing in the MERN stack, following the completion of an intensive three-month training program.
 <br>
 
-In addition to my technical work, last August I had the opportunity to assist students at the educational institution where I studied with their projects in Java and React. Guiding them through challenges and watching their progress was incredibly rewarding, and I feel it strengthened my teaching and mentoring skills. 👩‍🏫<br>
+In August 2024, I had the opportunity to mentor students at the educational institution where I studied, supporting them in their Java and React projects. Guiding them through technical challenges and seeing their progress was incredibly rewarding, and I feel it strengthened my teaching and mentoring skills. 👩‍🏫<br>
 
-In July 2024, I completed an internship as a Full Stack developer at Chip- a startup company, as part of my certificate studies. Working within a team of 20 programmers, I focused on version control tools like Git and GitHub. My work primarily involved using C# for backend development and Angular for frontend, alongside SQL Server as the database. 🛠️<br>
+That same month, I completed a Full Stack internship at Chip, a startup company, as part of my certificate program. Working in a team of 20 developers, I focused on version control tools like Git and GitHub. My work included C# for backend development, Angular with TypeScript for frontend, and SQL Server for the database.<br>
 
-I have developed several impressive projects, including client-server applications. You can check them out in the repositories below. 🔎<br>
+I've developed a variety of applications and Full Stack projects - feel free to explore them in my repositories below. 🔎<br>
 
 ## 🛠️ Skills
 - Languages:
-  - C#
-  - Java
-  - Python
-  - C
-  - Cobol
-- Web Development:
-  - Node.js
-  - Next.js
   - JavaScript
   - TypeScript
+  - Python
+  - C#
+  - Java
+  - C (basic)
+  - COBOL (basic)
+- Frontend:
+  - React
+  - Angular
   - HTML
   - CSS
   - Sass
-  - Angular
-  - React
   - Tailwind CSS
-- Databases:
-  - SQL Server
-  - MongoDB
-- Frameworks:
-  - Spring Boot (Java)
-  - Asp.NET Core (C#)
-- Tools:
-  - Postman API
-  - AWS
-  - Docker
-  - Terraform
+  - Redux
+- Backend:
+  - Node.js
+  - Next.js
+  - ASP.NET Core
+  - Spring Boot
 - UI Libraries:
-    - MUI (Material-UI)
-    - Angular Material
-    - PrimeNG
-- State Management Libraries:
-    - Redux
-    - Redux Toolkit
-- Other Skills:
+  - MUI
+  - Angular Material
+  - PrimeNG
+- Databases:
+  - MongoDB
+  - SQL Server
+- Tools & Platforms:
+  - Git
+  - GitHub
+  - Jira
+  - Docker (basic)
+- Other:
   - Object-Oriented Programming (OOP)
-
+  - Mathematics
+  - System Analysis
+  - Computer Networks
+  - Algorithms & Data Structures
+  - Agile Development
 
 ## 🎓 Education
 **2022-2024**:
-  - Full Stack development studies at Mahat
-  - Computer teaching program via the Ministry of Education
+  - Associate Degree in Software Engineering, Mahat (Israel's Government Institute for Technological Training).
+  - Certification in Computer Instruction, Ministry of Education.
 
 ## 💪 Motivation
-I am a lifelong learner, always eager to enhance my skills through self-study or courses.<br>
-On my initiative, I took a course in AWS, Docker, and Terraform, and I find these tools fascinating. 🐳<br>
-I am excited to continue growing in the field, tackle new challenges, and contribute to innovative projects. <br><br>
-Wish me success in the future 🏆
+I'm a lifelong learner, always eager to expand my knowledge through self-study and structured courses.<br>
+On my own initiative, I took a course covering AWS, Docker, and Terraform, and found these technologies fascinating. 🐳<br>
+I'm excited to keep growing as a developer, take on new challenges, and contribute to meaningful, innovative projects. <br><br>
+Wish me success on this journey 🏆
 
 ## 📞 Contact Me
 Interested in connecting or collaborating? Feel free to reach me at: <br><br>
