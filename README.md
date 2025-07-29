@@ -7,7 +7,7 @@ Since January 2025, I've been working as a Full Stack Developer in a civilian ro
 
 In August 2024, I had the opportunity to mentor students at the educational institution where I studied, supporting them in their Java and React projects. Guiding them through technical challenges and seeing their progress was incredibly rewarding, and I feel it strengthened my teaching and mentoring skills. 👩‍🏫<br>
 
-That same month, I completed a Full Stack internship at Chip, a startup company, as part of my certificate program. Working in a team of 20 developers, I focused on version control tools like Git and GitHub. My work included C# for backend development, Angular with TypeScript for frontend, and SQL Server for the database.<br>
+During that same month, I completed a Full Stack internship at Chip, a startup company, as part of my certificate program. Working in a team of 20 developers, I focused on version control tools like Git and GitHub. My work included C# for backend development, Angular with TypeScript for frontend, and SQL Server for the database.<br>
 
 I've developed a variety of applications and Full Stack projects - feel free to explore them in my repositories below. 🔎<br>
 
@@ -61,7 +61,7 @@ I've developed a variety of applications and Full Stack projects - feel free to 
 
 ## 💪 Motivation
 I'm a lifelong learner, always eager to expand my knowledge through self-study and structured courses.<br>
-On my own initiative, I took a course covering AWS, Docker, and Terraform, and found these technologies fascinating. 🐳<br>
+On my own initiative, I have been taking a course covering AWS, Docker, and Terraform, and found these technologies fascinating. 🐳<br>
 I'm excited to keep growing as a developer, take on new challenges, and contribute to meaningful, innovative projects. <br><br>
 Wish me success on this journey 🏆
 
