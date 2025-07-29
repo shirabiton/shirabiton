@@ -30,6 +30,7 @@ I've developed a variety of applications and Full Stack projects - feel free to 
   - Redux
 - Backend:
   - Node.js
+  - Express
   - Next.js
   - ASP.NET Core
   - Spring Boot
