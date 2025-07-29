@@ -49,7 +49,7 @@ I've developed a variety of applications and Full Stack projects - feel free to 
 - Other:
   - Object-Oriented Programming (OOP)
   - Mathematics
-  - System Analysis
+  - Systems Analysis
   - Computer Networks
   - Algorithms & Data Structures
   - Agile Development
