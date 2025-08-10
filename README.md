@@ -1,5 +1,5 @@
-### 👋 Hi, I'm Shira
-and welcome to my GitHub space
+### Hi, I'm Shira
+Welcome to my GitHub space 👋 
 
 ## 🌐 Overview
 Since January 2025, I've been working as a Full Stack Developer in a civilian role within the Israel Defense Forces, specializing in the MERN stack, following the completion of an intensive three-month training program.
