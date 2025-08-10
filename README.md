@@ -1,4 +1,4 @@
-### Hi, I'm Shira
+### 👋 Hi, I'm Shira
 Welcome to my GitHub space
 
 ## 🌐 Overview
