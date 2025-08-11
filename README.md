@@ -1,7 +1,7 @@
 ### Hi, I'm Shira
 Welcome to my GitHub space ✌️
 
-## 🌐 Overview
+## Overview
 Since January 2025, I've been working as a Full Stack Developer in a civilian role within the Israel Defense Forces, specializing in the MERN stack, following the completion of an intensive three-month training program.
 <br>
 
@@ -11,7 +11,7 @@ During that same month, I completed a Full Stack internship at Chip, a startup c
 
 I've developed a variety of applications and Full Stack projects - feel free to explore them in my repositories below.<br>
 
-## 🛠️ Skills
+## Skills
 - Languages:
   - JavaScript
   - TypeScript
@@ -54,18 +54,18 @@ I've developed a variety of applications and Full Stack projects - feel free to 
   - Algorithms & Data Structures
   - Agile Development
 
-## 🎓 Education
+## Education
 **2022-2024**:
   - Associate Degree in Software Engineering, Mahat (Israel's Government Institute for Technological Training).
   - Certification in Computer Instruction, Ministry of Education.
 
-## 💪 Motivation
+## Motivation
 I'm a lifelong learner, always eager to expand my knowledge through self-study and structured courses.<br>
 On my own initiative, I have been taking a course covering AWS, Docker, and Terraform, and found these technologies fascinating.<br>
 I'm excited to keep growing as a developer, take on new challenges, and contribute to meaningful, innovative projects. <br><br>
 Wish me success on this journey 🏆
 
-## 📞 Contact Me
+## Contact Me
 Interested in connecting or collaborating? Feel free to reach me at: <br><br>
 <a href="https://www.linkedin.com/in/shirabiton/">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="height: 30px;">
