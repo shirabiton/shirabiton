@@ -2,7 +2,7 @@
 Welcome to my GitHub space ✌️
 
 ## Overview
-Since January 2025, I've been working as a Full Stack Developer in a civilian role within the Israel Defense Forces, specializing in the MERN stack, following the completion of an intensive three-month training program.
+Since October 2024, I've been working as a Full Stack Developer in a civilian role within the Israel Defense Forces, specializing in the MERN stack.
 <br>
 
 In August 2024, I had the opportunity to mentor students at the educational institution where I studied, supporting them in their Java and React projects. Guiding them through technical challenges and seeing their progress was incredibly rewarding, and I feel it strengthened my teaching and mentoring skills.<br>
