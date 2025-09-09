@@ -57,7 +57,8 @@ I've developed a variety of applications and Full Stack projects - feel free to 
 ## Education
 **2022-2024**:
   - Software Engineering diploma, Institute for Technological Training (Mahat), graduated with high distinction | GPA: 96.
-  - Certification in Computer Instruction, Ministry of Education.<br>
+  - Certification in Computer Instruction, Ministry of Education.
+
 **2018-2022**:
   - High school matriculation diploma.
 
